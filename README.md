@@ -12,11 +12,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **fazzpedia**  
-- 🌱 I’m learning **javascript**  
+- 🔭 I’m currently working on **fazzpedia - ppob app**  
+- 🌱 I’m learning **golang**  
 - 👯 I’m looking to collaborate on **e-commerce**  
-- 💬 Ask me about **[topics you know well]**  
-- ⚡ Fun fact: **[interesting fact about you]**
+- 💬 Ask me about **my project**  
+- ⚡ Fun fact: **I'am A Lazy Person**
 
 📫 Reach me: **fazzcodex@gmail.com** 
 
