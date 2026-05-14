@@ -18,14 +18,14 @@
 - 💬 Ask me about **[topics you know well]**  
 - ⚡ Fun fact: **[interesting fact about you]**
 
-📫 Reach me: **[fazzcodex@gmail.com](mailto: fazzcodex@gmail.com)**  
+📫 Reach me: **fazzcodex@gmail.com** 
 
 ---
 
 ### 🚀 Tech & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,go,rust,docker,kubernetes,git,github,linux,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,nextjs,expressjs,mysql,vercel,supabase,git,github,linux,vscode&perline=7" />
 </p>
 
 ---
