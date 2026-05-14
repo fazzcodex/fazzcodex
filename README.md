@@ -1,16 +1,85 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm [Nama Kamu]</h1>
+<h3 align="center">A passionate [role, e.g., fullstack developer] from [kota/negara]</h3>
 
-<!--
-**fazzcodex/fazzcodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=usernamekamu&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/usernamekamu?tab=followers">
+    <img src="https://img.shields.io/github/followers/usernamekamu?label=Followers&style=social" alt="followers" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+- 🔭 I’m currently working on **[project name]**  
+- 🌱 I’m learning **[tech stack]**  
+- 👯 I’m looking to collaborate on **[type of projects]**  
+- 💬 Ask me about **[topics you know well]**  
+- ⚡ Fun fact: **[interesting fact about you]**
+
+📫 Reach me: **[email@example.com](mailto:email@example.com)**  
+
+---
+
+### 🚀 Tech & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,go,rust,docker,kubernetes,git,github,linux,vscode&perline=7" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usernamekamu&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usernamekamu&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usernamekamu&layout=compact&theme=radical&hide_border=true" width="40%" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=usernamekamu&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usernamekamu&theme=react-dark&bg_color=0d1117&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/usernamekamu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/usernamekamu">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/usernamekamu">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/usernamekamu">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
