@@ -25,7 +25,7 @@
 ### 🚀 Tech & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,nextjs,expressjs,mysql,vercel,supabase,git,github,linux,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,nextjs,expressjs,mariadb,vercel,aws,supabase,git,github,linux,vscode&perline=7" />
 </p>
 
 ---
