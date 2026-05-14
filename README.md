@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm [Nama Kamu]</h1>
-<h3 align="center">A passionate [role, e.g., fullstack developer] from [kota/negara]</h3>
+<h1 align="center">👋 Hi, I'm FazzCode</h1>
+<h3 align="center">A passionate , fullstack developer from indonesia</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=usernamekamu&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
