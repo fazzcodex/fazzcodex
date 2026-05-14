@@ -22,7 +22,7 @@
 
 ---
 
-### 🚀 Tech & Tools
+###  Tech & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,nextjs,expressjs,mariadb,vercel,aws,supabase,git,github,linux,vscode&perline=7" />
@@ -31,7 +31,7 @@
 ---
 
 
-### ✍️ Random Dev Quote
+###  Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -39,7 +39,7 @@
 
 ---
 
-### 📈 Activity Graph
+###  Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fazzcodex&theme=react-dark&bg_color=0d1117&hide_border=true" />
