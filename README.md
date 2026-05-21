@@ -62,7 +62,7 @@ const fazzcode = {
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,ejs" />
 
 ###  Backend & Database
-<img src="https://skillicons.dev/icons?i=express,mongodb,mysql,mariadb,supabase,firebase" />
+<img src="https://skillicons.dev/icons?i=express,mongodb,mysql,supabase,firebase" />
 
 ###  DevOps & Tools
 <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,git,github,linux,vscode" />
@@ -141,13 +141,7 @@ Scalable Backend Infrastructure
 
 ---
 
-# 🎵 Spotify Playing
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxxxxxxxxxxxxxxxx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
-</p>
-
----
 
 <div align="center">
 
